@@ -101,11 +101,14 @@ Kodu kopyala
 python -m venv venv
 
 # Windows
+bash
 venv\Scripts\activate
 
 # macOS / Linux
+bash
 source venv/bin/activate
-📦 Adım 3: Gerekli Kütüphaneleri Yükleyin
+
+### 📦 Adım 3: Gerekli Kütüphaneleri Yükleyin
 bash
 Kodu kopyala
 pip install opencv-python mediapipe ultralytics pandas numpy playsound matplotlib
