@@ -93,9 +93,9 @@ Bu proje aşağıdaki hedeflere odaklanır:
 ```
 git clone https://github.com/Gulnaz-Aydemir/Military-Driver-Monitoring-System.git
 cd Military-Driver-Monitoring-System
-´´´
 
-🧪 Adım 2: Sanal Ortam Oluşturun (Önerilir)
+
+### 🧪 Adım 2: Sanal Ortam Oluşturun (Önerilir)
 python -m venv venv
 
 # Windows
