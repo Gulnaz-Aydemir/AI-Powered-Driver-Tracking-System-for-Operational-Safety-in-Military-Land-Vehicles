@@ -89,10 +89,9 @@ Bu proje aşağıdaki hedeflere odaklanır:
 - Web kamera
 - Windows / Linux / macOS
 
----
 
 ### 📥 Adım 1: Repoyu Klonlayın
-```bash
+bash
 git clone https://github.com/Gulnaz-Aydemir/Military-Driver-Monitoring-System.git
 cd Military-Driver-Monitoring-System
 
