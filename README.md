@@ -96,7 +96,7 @@ Bu proje aşağıdaki hedeflere odaklanır:
 git clone https://github.com/Gulnaz-Aydemir/Military-Driver-Monitoring-System.git
 cd Military-Driver-Monitoring-System
 
-🧪 Adım 2: Sanal Ortam Oluşturun (Önerilir)
+### 🧪 Adım 2: Sanal Ortam Oluşturun (Önerilir)
 bash
 Kodu kopyala
 python -m venv venv
@@ -107,10 +107,15 @@ venv\Scripts\activate
 # macOS / Linux
 source venv/bin/activate
 
-📦 Adım 3: Gerekli Kütüphaneleri Yükleyin
+### 📦 Adım 3: Gerekli Kütüphaneleri Yükleyin
 bash
 Kodu kopyala
 pip install opencv-python mediapipe ultralytics pandas numpy playsound matplotlib
+
+### 📂 Adım 4: Gerekli Dosyaları Kontrol Edin Aşağıdaki dosyaların proje klasöründe bulunduğundan emin olun: alarm.mp3 → Uyarı sesi yolov8n.pt → YOLOv8 modeli (ilk çalıştırmada otomatik iner)
+
+### ▶️ Adım 5: Sistemi Çalıştırın python final_system_v3.py
+
 
 Çıkış için q tuşuna basınız.
 📷 Ekran Görüntüleri
