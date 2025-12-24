@@ -1,5 +1,4 @@
-# 🛡️ Askeri Kara Araçlarında Operasyonel Güvenlik İçin  
-## Yapay Zeka Destekli Sürücü Takip Sistemi
+# 🛡️ Askeri Kara Araçlarında Operasyonel Güvenlik İçin Yapay Zeka Destekli Sürücü Takip Sistemi
 
 > *“Operasyonel süreklilik, personelin güvenliği ile başlar.”*
 
