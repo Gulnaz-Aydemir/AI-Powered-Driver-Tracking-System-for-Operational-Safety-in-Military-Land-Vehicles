@@ -88,13 +88,13 @@ Bu proje aşağıdaki hedeflere odaklanır:
 - Web kamera
 - Windows / Linux / macOS
   
-📷 Ekran Görüntüleri
+### 📷 Ekran Görüntüleri
 Senaryo	Açıklama
 Normal Sürüş	Güvenli sürüş durumu
 Yorgunluk Tespiti	Gözler kapalı – alarm
 Telefon Tespiti	Kural ihlali algılandı
 
-🔬 Teknik Detaylar ve Kaynakça
+### 🔬 Teknik Detaylar ve Kaynakça
 
 EAR (Eye Aspect Ratio):
 Soukupová & Čech (2016) – Gerçek zamanlı göz kırpma analizi
@@ -102,18 +102,18 @@ Soukupová & Čech (2016) – Gerçek zamanlı göz kırpma analizi
 YOLOv8:
 COCO veri seti ile eğitilmiş, gerçek zamanlı nesne tespiti modeli
 
-📚 Veri Seti Referansları
+### 📚 Veri Seti Referansları
 
 State Farm Distracted Driver Detection Dataset (Kaggle)
 
 UTA Real-Life Drowsiness Dataset (UTA-RLDD)
 
-👨‍💻 Geliştirici
+### 👨‍💻 Geliştirici
 
 Gülnaz Aydemir
 Endüstri Mühendisliği & Yapay Zeka Mühendisliği (Çift Anadal)
 
-📄 Lisans
+### 📄 Lisans
 
 Bu proje eğitim ve araştırma amaçlı geliştirilmiştir.
 Açık kaynaklı bir prototip çalışmadır.
